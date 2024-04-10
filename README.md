@@ -32,11 +32,23 @@
 - [Project 2 Name](link-to-project): Brief description of the project.
 </p>
 -->
-<h3 align="left">Stats:</h3>
-<p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalkarYash&layout=compact&theme=radical" alt="Yash Khalkar's Top Languages">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=KhalkarYash&show_icons=true&theme=radical" alt="Yash Khalkar's GitHub Stats">
-</p>
+<h3 align="left">Stats</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalkarYash&langs_count=8&theme=dark" alt=SwapnilK0 />
 
-<h3 align="left">Activity Graph:</h3>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=KhalkarYash&theme=radical" alt="Yash Khalkar's GitHub Streak">
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=KhalkarYash&show_icons=true&locale=en&theme=tokyonight" alt="SwapnilK0" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KhalkarYash&theme=dark" alt="SwapnilK0" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/KhalkarYash">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KhalkarYash&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KhalkarYash&theme=tokyonight" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KhalkarYash&theme=tokyonight" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KhalkarYash&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhalkarYash&theme=moonlight" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=KhalkarYash&theme=xcode"/>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
