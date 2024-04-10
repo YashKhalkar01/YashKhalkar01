@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on various web development projects, exploring the latest trends and technologies.
 - 🌱 I’m interested in diving deeper into Artificial Intelligence and Data Science in the future.
 - 💬 Ask me about anything related to web development or share your insights on AI & Data Science. I'm always eager to learn!
-- 📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yash-khalkar/). Let's connect and discuss our mutual interests!
+- 📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yashkhalkar/). Let's connect and discuss our mutual interests!
 - 😄 Pronouns: He/Him
 
 <h3 align="left">Connect with Me:</h3>
