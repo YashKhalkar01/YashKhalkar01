@@ -34,11 +34,11 @@
 </p>
 -->
 <h3 align="left">Stats</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalkarYash&langs_count=8&theme=dark" alt=SwapnilK0 />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalkarYash&langs_count=8&theme=dark" alt=KhalkarYash />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=KhalkarYash&show_icons=true&locale=en&theme=tokyonight" alt="SwapnilK0" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=KhalkarYash&show_icons=true&locale=en&theme=tokyonight" alt="KhalkarYash" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KhalkarYash&theme=dark" alt="SwapnilK0" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KhalkarYash&theme=dark" alt="KhalkarYash" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
