@@ -14,10 +14,10 @@
 <a href="https://linkedin.com/in/yashkhalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashkhalkar" height="30" width="40" /></a>
 <a href="https://instagram.com/yashkhalkar001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashkhalkar001" height="30" width="40" /></a>
 <a href="https://medium.com/@yashmk2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yashmk2004" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/yashkhalkar9636" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yashkhalkar9636" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC0iNkrmdVwS4KAX1g5vB6Tw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yashkhalkar9636" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yashmk2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yashmk2004" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yashkhalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashkhalkar" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/yashmk2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="yashmk2004" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@yashmk2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="yashmk2004" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Skills:</h3>
