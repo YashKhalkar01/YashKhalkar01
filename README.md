@@ -37,6 +37,8 @@
 </p>
 -->
 <h3 align="left">Stats</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khalkaryash&label=Profile%20Views&color=00308F&style=flat" alt="khalkaryash" /> </p>
+
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalkarYash&langs_count=8&theme=dark" alt=KhalkarYash />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=KhalkarYash&show_icons=true&locale=en&theme=tokyonight" alt="KhalkarYash" /></p>
