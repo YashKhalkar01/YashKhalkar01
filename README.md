@@ -2,6 +2,7 @@
 <h1 align="center">Hi there, I'm Yash Khalkar! 👋</h1>
 <h3 align="center">Passionate about Web Development and interested in exploring Artificial Intelligence & Data Science</h3>
 
+👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 - 🔭 I’m currently working on various web development projects, exploring the latest trends and technologies.
 - 🌱 I’m interested in diving deeper into Artificial Intelligence and Data Science in the future.
 - 💬 Ask me about anything related to web development or share your insights on AI & Data Science. I'm always eager to learn!
